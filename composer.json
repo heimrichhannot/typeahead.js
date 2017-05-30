@@ -6,7 +6,7 @@
   "license": "MIT",
   "extra": {
     "component": {
-      "name": "typeaheadjs",
+      "name": "typeahead.js",
       "scripts": [
         "typeahead.bundle.min.js"
       ],
